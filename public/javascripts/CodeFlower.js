@@ -21,28 +21,32 @@ var CodeFlower = function(selector, w, h) {
     .size([h, w]);
 };
 
-CodeFlower.prototype.update = function(json) {
-  if (json) this.json = json;
+CodeFlower.prototype.update = function(csvData) {
+  if (csvData) this.csvData = csvData;
 
-  this.json.fixed = true;
-  this.json.x = this.w / 2;
-  this.json.y = this.h / 2;
- var nodes = json.routines;
-    links = [];
-    nodes.forEach(function(node) {
-      if (node.children) {
-        node.children.forEach(function(child) {
-          nodes.forEach(function(nodi) {
-            if (nodi.name == child.tag) {
-              links.push({
-                source: node,
-                target: nodi
-              });
-            }
-          });
-        });
-      }
-    });
+  this.csvData.fixed = true;
+  this.csvData.x = this.w / 2;
+  this.csvData.y = this.h / 2;
+
+  var nodes = [];
+  var links =[];
+  parsedCSV = d3.csv.parse(csvData);
+  console.log(parsedCSV);
+
+  // parsedCSV.forEach(function(edge){
+  //   // console.log(edge);
+  //   if ( -1 == $.inArray(edge.Source, nodes)) nodes.push({name: edge.Source});
+  //   if ( -1 == $.inArray(edge.Target, nodes)) nodes.push({name: edge.Target});
+  //   links.push({source: edge.Source, target: edge.Target});
+  // });
+  var hello = {name: "hello"};
+  var world = {name: "world"};
+
+  nodes.push(hello);
+  nodes.push(world);
+  links.push({source: hello, target:world});
+  console.log(nodes, links);
+
   var total = nodes.length || 1;
 
   // remove existing text (will readd it afterwards to be sure it's on top)
@@ -102,24 +106,6 @@ CodeFlower.prototype.update = function(json) {
     .attr('text-anchor', 'middle');
 
   return this;
-};
-
-CodeFlower.prototype.flatten = function(root) {
-  var nodes = [], i = 0;
-
-  function recurse(node) {
-    if (node.children) {
-      node.size = node.children.reduce(function(p, v) {
-        return p + recurse(v);
-      }, 0);
-    }
-    if (!node.id) node.id = ++i;
-    nodes.push(node);
-    return node.size;
-  }
-
-  root.size = recurse(root);
-  return nodes;
 };
 
 CodeFlower.prototype.click = function(d) {

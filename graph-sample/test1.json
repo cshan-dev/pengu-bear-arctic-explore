@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "name": "Paul Blart",
+      "type": "crew",
+      "expedition": "exp1",
+      "ship": "SS Mall Cop",
+      "died_on_expedition": "yes"
+    },
+    {
+      "name": "SS Mall Cop",
+      "type": "ship",
+      "expedition": "exp1",
+      "crew": [{"name": "Paul Blart"}]
+    },
+    {
+      "name": "exp1",
+      "type": "expedition",
+      "ships": [{"name": "SS Mall Cop"}]
+    }
+  ]
+}

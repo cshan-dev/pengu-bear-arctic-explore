@@ -5,6 +5,14 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
+
+router.get('/slidersView', function(req, res, next) {
+  res.render('slidersView');
+});
+
+router.get('/sailorAdd', function(req, res, next){
+  res.render('sailorAdd');
+});
 // router.get('/graph-sample/1/1.json',function(req,res,next){
 // 	//console.log('requested');
 // 		res.sendFile('/graph-sample/1/1.json',function(err){

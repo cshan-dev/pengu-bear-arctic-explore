@@ -3,13 +3,16 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
 a {
-  color: #00b7ff; }
+  color: #00B7FF; }
 
 #slidersdiv {
   padding: 10px; }
 
 .slider {
-  margin-bottom: 30px; }
+  margin-bottom: 10px; }
+
+.ui-slider-horizontal {
+  height: 8px; }
 
 layout {
   width: 100%;
@@ -20,7 +23,7 @@ circle.node {
   cursor: pointer; }
 
 circle.node.collapsed {
-  stroke: #555555; }
+  stroke: #555; }
 
 .nodetext {
   fill: #252929;
@@ -31,3 +34,5 @@ line.link {
   fill: none;
   stroke: red;
   stroke-width: 1.5px; }
+
+/*# sourceMappingURL=style.css.map */
