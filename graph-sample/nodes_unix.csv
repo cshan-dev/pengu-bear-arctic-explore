@@ -1,0 +1,3148 @@
+Id,Label
+1,The Arctic
+2,Antarctica
+3,French Arctic Expedition (1925)
+4,Charles Francis Hall's First Arctic Expedition (1860)
+5,Charles Francis Hall's Second Arctic Expedition (1864)
+6,Polaris Expedition (1871)
+7,Jeannette Expedition (1879)
+8,"Rae-Richardson Polar Expedition, Overland (1848)"
+9,Northwest Passage Expedition (1903)
+10,Spitsbergen Expedition (1818)
+11,Crossing of Greenland (1888)
+12,John Ross First Arctic Expedition (1818)
+13,John Ross Second Arctic Expedition (1829)
+14,John Ross Third Arctic Expedition (1850)
+15,Hecla and Griper Expedition (1819)
+16,Hecla and Fury Expedition (1821)
+17,British Naval North Polar Expedition (1827)
+18,Enterprise and Investigator Expedition (1848)
+19,Overland (Mackenzie River Expedition)
+20,Northwest Passage Expedition (1845)
+21,Knight Expedition (1719)
+22,Coppermine River Expedition (1819)
+23,Gulf of Boothia Expedition (1846)
+24,Jackson-Harmsworth Arctic Expedition (1894)
+25,S. A. Andree Balloon Expedition (1897)
+26,First Fram Expedition (1893)
+27,Second Fram Expedition (1898)
+28,Weddell's First Expedition (1819)
+29,Weddell's Second Expedition (1821)
+30,Weddell's Third Expedition (1822)
+31,French Antarctic Expedition (1837)
+32,French Antarctic Expedition (1904)
+33,French Antarctic Expedition (1908)
+34,Southern Ocean Expedition (1830)
+35,Second German Antarctic Expedition (1911)
+36,First German Antarctic Expedition (1901)
+37,Japanese Antarctic Expedition (1910)
+38,First Norwegian Antarctic Expedition (1892)
+39,Dundee Whaling Expedition (1892)
+40,Brussels Geographical Society Antarctic Expedition (1897)
+41,Scottish National Antarctic Expedition (1902)
+42,Norwegian Antarctic Expedition (1910)
+43,Erebus and Terror Expedition (1839)
+44,Expedition to Graham Land (1920)
+45,Samuel Enderby & Sons Exploration Cruise (1838)
+46,Russian Circumnavigation Expedition (1819)
+47,Shackleton-Rowett Expedition (1921)
+48,Imperial Trans-Antarctic Expedition (1914)
+49,Australasian Antarctic Expedition (1911)
+50,British Antarctic Expedition (1907)
+51,British National Antarctic Expedition (1901)
+52,British Antarctic Expedition (1910)
+53,British Antarctic Expedition (1898)
+54,Henryk Bull Whaling Expedition (1893)
+55,Swedish Antarctic Expedition (1901)
+56,U.S. Exploring Expedition (1838)
+61,Northwest Passage
+63,Jane (Weddell)
+64,Beaufoy (Brisbane)
+65,Jules Dumont d'Urville
+66,Astrolabe (D'Urville)
+67,Zelee (Jacquinot)
+68,Jean-Baptist Charcot
+69,Francais (Charcot)
+70,Porquois-Pas? IV (Charcot 1908)
+71,HMS Trent (Franklin)
+72,David Buchan
+73,Sir John Franklin
+74,John Biscoe
+75,Tula
+76,Lively
+77,Wilhelm Filchner
+78,Deutschland
+79,Gauss (Drygalski)
+80,Erich von Drygalski
+81,Kainan Maru (Shirase)
+82,Nobu Shirase
+83,Jason
+84,Carl Anton Larsen
+85,Balaena
+86,Active
+87,Diana
+88,Polar Star
+89,Alexander Fairweather
+90,Charles Francis Hall
+91,George Henry (whaler)
+92,Monticello
+93,USS Jeannette (De Long)
+94,George Washington DeLong
+95,Adrien de Gerlache
+96,Belgica (Gerlache)
+97,John Richardson
+98,John Rae
+99,Scotia (Bruce)
+100,William Speirs Bruce
+101,Gjoa
+102,Roald Amundsen
+103,HMS Dorothea (Buchan)
+104,Overland (Crossing of Greenland)
+105,Hvidbjornen
+106,Fridtjof Nansen
+107,Jason
+108,Oluf Christian Dietrichson
+109,Kristian Kristiansen
+110,Otto Sverdrup
+111,Fram (Amundsen)
+112,William Edward Parry
+113,Sir John Ross
+114,HMS Alexander (Ross)
+115,HMS Isabella (Ross)
+116,HMS Victory (Ross)
+117,Felix (Ross)
+118,HMS Griper (Liddon 1819)
+120,HMS Fury (Parry 1821)
+121,Sir James Clark Ross
+122,HMS Cove (Ross)
+123,Rescue of Whaleships in Baffin Bay (1835)
+124,Whaling
+125,HMS Erebus (Ross)
+126,HMS Terror (Ross)
+127,HMS Investigator (Bird)
+129,Search for Franklin's Lost Expedition
+130,William J. S. Pullen
+131,HMS Plover (Moore)
+132,HMS Herald (Kellett 1848)
+133,Behring's Strait Expedition (1848)
+134,Enterprise and Investigator Expedition (1850)
+135,Richard Collinson
+136,Robert John le Mesurier McClure
+137,HMS Resolute (Austin)
+138,HMS Assistance (Ommanney)
+140,Erasmus Ommanney
+141,Resolute and Assistance Expedition (1850)
+142,HMS Pioneer (steam tender)
+143,Intrepid (steam tender)
+144,Charles Forsyth
+145,Prince Albert (Kennedy)
+146,Prince Albert Expedition (1850)
+147,William Penny
+148,Lady Franklin
+149,Sophia (Stewart)
+150,Lady Franklin and Sophia Expedition (1850)
+151,First Grinnell Expedition (1850)
+152,Edwin de Haven
+153,USS Rescue (Griffin)
+154,USS Advance (de Haven)
+155,Elisha Kent Kane
+156,Prince Albert Expedition (1851)
+157,William Kennedy
+158,Frederick William Beechey
+159,Bering Strait Expedition (1825)
+160,HMS Blossom (Beechey)
+161,Sir Edward Belcher
+162,Edward Belcher Expedition (1852)
+163,HMS Assistance (Belcher)
+164,HMS Resolute (Kellett)
+165,HMS Pioneer (Osborn)
+166,HMS Intrepid (McClintock)
+167,North Star (Pullen)
+168,Henry Kellett
+169,George Strong Nares
+170,Sherard Osborn
+171,Francis Leopold McClintock
+172,Second Grinnell Expedition (1853)
+173,USS Advance (Kane)
+174,Hans Hendrik
+175,USS Polaris
+176,Overland (Coppermine River Expedition)
+177,George Back
+178,Robert Hood
+179,John Hepburn
+180,HMS Erebus (Franklin)
+181,HMS Terror (Franklin)
+182,Francis R. M. Crozier
+183,George Fisher
+184,Edward Sabine
+185,George Francis Lyon
+187,Horatio Thomas Austin
+188,Henry Parkyns Hoppner
+189,North Pole
+190,Mirny (Lazarev)
+191,Nikolai Annenkov
+192,Nikolai Galkin
+193,Nikolai Ilin
+194,Ivan Kupriyanov
+195,Paul Novosilski
+196,Nikolai Obernibessov
+197,Fabian Gottlieb von Bellingshausen
+198,Mikhail Lazarev
+199,Vostok (Bellingshausen)
+200,Roman Adams
+201,Jacob Bergh
+202,Dmitri Demidov
+203,Ivan Ignatiev
+204,Arcady Lyaskov
+205,Pavel Nikolaevich Mikhailov
+206,Jacob Paryadin
+207,Ivan Rezanov
+208,Ivan Siminov
+209,Constantin Torsen
+210,Ivan Zvodovski
+211,James Weddell
+215,Matthew Brisbane
+217,British Arctic Expedition (1875)
+218,HMS Discovery (Nares)
+219,HMS Alert (Nares)
+220,Henry Frederick Stephenson
+221,Albert Hastings Markham
+222,Thomas Mitchell
+223,Adam Ayles
+224,HMS Discovery (Scott)
+225,Louis Bernacchi
+226,Robert Falcon Scott
+227,Charles Royds
+228,Michael Barne
+229,Reginald Skelton
+230,Albert Armitage
+231,Ernest Shackleton
+232,Frank Wild
+233,William Lashly
+234,Thomas Crean
+235,Edgar Evans
+236,Ernest Joyce
+237,Hartley Ferrar
+238,Thomas Vere Hodgson
+239,Reginald Koettlitz
+240,Edward Wilson
+241,James William Dell
+242,George F. A. Mulock
+243,Thomas A. Feather
+244,James H. Dellbridge
+245,Fred E. Dailey
+246,Charles R. Ford
+247,Jacob Cross
+248,William Smythe
+249,David Allan
+250,Thomas Kennar
+251,Gilbert Scott
+252,Arthur Henry Blissett
+253,Charles Clarke
+254,Arthur Pilbeam
+255,William Lofthouse Heald
+256,Thomas S. Williamson
+257,George Beaver Croucher
+258,Jesse Handsley
+259,William J. Weller
+260,Arthur L. Quartley
+261,Thomas Whitfield
+262,Frank Plumley
+263,Morning (relief ship)
+264,William Colbeck
+265,Edward Evans
+266,Rupert England
+267,George Doorly
+268,G. A. Davidson
+269,J. D. Morrison
+270,F. L. Maitland-Somerville
+271,Neville Pepper
+272,Frederick George Jackson
+273,Whaling Cruise (1886)
+274,Siberian Sledge Expedition (1893)
+275,Windward (Jackson-Harmsworth)
+276,Overland (Jackson-Harmsworth)
+277,J. F. Child
+278,Harry Fisher
+279,William Thom
+280,George McDiarmid
+281,Henry Anderson
+282,Robert Neal Rudmose Brown
+283,William Cuthbertson
+284,Robert Davidson
+285,Alexander Duncan
+286,John Fitchie
+287,Edwin Florence
+288,Henry Gravill
+289,Andrew Grieg
+290,John H. Harvey-Pirie
+291,Gilbert Kerr
+292,David Low
+293,John Macmurchie
+294,Thomas Mackenzie
+295,Robert Mackenzie
+296,William Martin
+297,James McDougall
+298,Robert Cockburn Mossman
+299,William Murray
+300,David Patrick
+301,Alan Ramsay
+302,James Rice
+303,Alexander Robertson
+304,Thomas Robertson
+305,Alastair Ross
+306,James Smith
+307,John Smith
+308,William Smith
+309,Bryce Allan Thomson
+310,Alexander John Walker
+311,Robert Wilson
+312,David W. Wilton
+313,Nimrod (Shackleton)
+314,Jameson Boyd Adams
+315,John King Davis
+316,Aeneas Mackintosh
+317,James Murray
+318,Raymond Priestley
+319,Edgeworth David
+320,Douglas Mawson
+321,Arthur Edward Harbord
+322,Eric Marshall
+323,Alistair Mackay
+324,Bernard Day
+325,Sir Philip Brocklehurst
+326,Shinkichi Hanamori
+327,Masakichi Ikeda
+328,Seizo Miisho
+329,Kotaro Miura
+330,Susumu Muramatsu
+331,Genzo Nishikawa
+335,Keiichi Tada
+337,Yasunao Taizumi
+339,Terutaro Takeda
+341,Chikasaburo Watanabe
+343,Yasunosuke Yamabe
+344,Yoshitada Yoshino
+345,Yoshiji Fukushima
+346,Miosaku Hamasaki
+347,Gisaku Kamada
+348,Yukihiko Miyake
+349,Naokichi Nomura
+350,Heitaro Sakai
+351,Ichimatsu Sato
+352,Kanejiro Shibata
+353,Yohitake Shima
+354,Kotaro Shimizu
+355,Rokugoro Sugisaki
+356,Sajiro Takagawa
+357,Sumimatsu Takatori
+358,Zensaku Tanno
+359,Hirose Tohei
+360,Tomoji Tsuchiya
+361,Kitaro Watanabe
+362,Isaburo Yasuda
+363,Aveline
+364,Besnard
+365,Boland
+366,H. Bongrain
+367,E. Chollet
+368,Denais
+369,Dufreche
+370,Frachat
+371,L. Gain
+372,R. Godfroy
+373,Ernest Gourdon
+374,F. Guegen
+375,J. Guegen
+376,Herve
+377,J. Jabet
+378,Lerebourgh
+379,Lhostis
+380,Libois
+381,J. M. D. Liouville
+382,Modaine
+383,Monzimet
+384,Nozal
+385,Paumelle
+386,L. Poste
+387,Rosselin
+388,Jules Rouch
+389,A. Senouque
+390,Thomas
+391,Van Acken
+392,Aurora (Mawson)
+393,Edward Frederick Robert Bage
+394,Francis Howard Bickerton
+395,J. H. Close
+396,Percy Edward Correll
+397,Walter H. Hannam
+398,Alfred James Hodgeman
+399,John George Hunter
+400,Frank Hurley
+401,S. N. Jeffryes
+402,Charles Francis Laseron
+403,Cecil Thomas Madigan
+404,Archibald Lang McLean
+405,Xavier Mertz
+406,Herbert Dyce Murphy
+407,Belgrave Edward Sutton Ninnis
+408,Frank Leslie stillwell
+409,Eric Norman Webb
+410,Leslie H. Whetter
+411,George Harris Sargeant Dovers
+412,Charles Turnbull Harrisson
+413,Charles Archibald Hoadley
+414,Sydney Evan Jones
+415,Alexander Lorimer Kennedy
+416,Morton Henry Moyes
+417,Andre Dougal Watson
+418,George F. Ainsworth
+419,Leslie Russell Blake
+420,Harold Hamilton
+421,Charles A. Sandell
+422,A. J. Sawyer
+423,J. H. Blair
+424,P. Gray
+425,C. P. de la Motte
+426,F. J. Gillies
+427,Bert Lincolon
+428,Andreas Beck
+429,Olav Olavson Bjaalund
+430,Fredrick Gjertsen
+431,Ludvig Hansen
+432,Helmer Hanssen
+433,Hjalmar Johansen
+434,Kristensen
+435,Alexander Kutchin
+436,Adolf Henrick Lindstrom
+437,Thorvald Nilsen
+438,Jacob Nodtvedt
+439,Karinius Olsen
+440,Kristian Prestrude
+441,Martin Ronne
+442,Jorgen Stubberud
+443,Knut Sundbeck
+444,Oskar Wisting
+445,Godfred Hansen
+446,Anton lund
+447,Peder Ristvedt
+448,Gustav Juel Wiik
+449,William Dunbar
+450,Alfred Sweetman
+451,Walter Sharvell
+452,Albert G. Kuehne
+453,Edward Star
+454,Henry D. Warren
+455,Peter E. Johnson
+456,James M. Ambler
+457,Jerome J. Collins
+458,Hans H. Erichson
+459,Heinrick H. Kaack
+460,George W. Boyd
+461,Walter Lee
+462,Adolph Dressler
+463,Carl A. Gortz
+464,Nelse Iverson
+465,Ah Sam
+466,Alexy
+467,J. W. Danenhower
+468,Charles W. Chipp
+469,George W. Melville
+470,William F. C. Nidemann
+471,Louis P. Noros
+472,Clement Adrien Vincendon-Dumoulin
+473,Charles Hector Jacquinot
+474,John Balleny
+475,Eliza Scott
+476,Terra Nova (Scott)
+477,Edward L. Atkinson
+478,Henry Robertson Bowers
+479,Victor Campbell
+480,G. Murray Levick
+481,"Lawrence ""Titus"" Oates"
+483,W. W. Archer
+484,A. Brewster
+485,Frank V. Browning
+486,Thomas Clissold
+487,Harry Dickason
+488,Robert Forde
+489,Dimitri Geroff
+490,F. J. Hooper
+491,Patrick Keohane
+492,Anton Omelchenko
+493,Arthur S. Bailey
+494,Albert Balson
+495,Robert Brissenden
+496,Wilfred M. Bruce
+497,William Burton
+498,Alfred B. Cheetham
+499,Francis E. C. Davies
+500,James R. Dennistoun
+501,Francis R. H. Drake
+502,William A. Horton
+503,William Knowles
+504,Charles Lammas
+505,Joseph Leese
+506,Dennis G. Lillie
+507,John Hugh Mather
+508,Mortimer McCarthy
+509,Angus McDonald
+510,William McDonald
+511,Thomas McGillon
+512,Edward A. McKenzie
+513,Thomas A. McLeod
+514,W. H. Neale
+515,Robert Oliphant
+516,Frederick Parsons
+517,James Paton
+518,Harry L. L. Pennell
+519,Henry E. de P. Rennick
+520,James Skelton
+521,Bernard J. Stone
+522,Charles Williams
+523,William Williams
+526,Bertram Armytage
+527,Henry J. L. Dunlop
+528,Frederick Pryce Evans
+529,Frederick G. Abraham
+530,William Drummond Ansell
+531,Victory Berry
+532,Walter George Bilsby
+533,John Brolly
+534,Alfred B. Bull
+535,Henry B. Bull
+536,Christian Craft
+537,D. Donovan
+538,Ernest Ellis
+539,J. Hancock
+540,H. Holmes
+541,Charles Hunt
+542,G. R. Kemp
+543,Michael Thomas McGillion
+544,Hugh McGowan
+545,John McMillan
+546,George Edward Marston
+547,William Arthur Rupert Michell
+548,William C. Roberts
+550,S. Richardson
+551,Robert McNeil
+552,Murdoch M. McRae
+553,M. R. Meyrick
+554,John Montague
+555,Edward Morrison
+556,David Nelson
+557,Richard Nodder
+558,John Partridge
+559,E. Reynart
+560,Sidney Riches
+561,Felix Rooney
+562,G. Rooney
+563,A. Schofield
+564,Walter Spice
+565,M. Vaughan
+566,Endurance (Shackleton)
+567,William Bakewell
+568,Perce Blackborow
+569,Robert S. Clark
+570,Charles J. Green
+571,Lionel Greenstreet
+572,Ernest Holness
+573,Walter E. How
+574,Hubert T. Hudson
+575,Leonard D. A. Hussey
+576,Reginald W. James
+577,A. J. Kerr
+578,Alexander H. Macklin
+579,Timothy McCarthy
+580,James A. McIlroy
+581,Henry McNish
+582,Thomas Orde-Lees
+583,Lewis Richinson
+584,William Stephenson
+585,John Vincent
+586,James M. Wordie
+587,Frank Worsley
+588,The James Caird
+589,Edward Joseph Bird
+590,Joseph Dayman
+591,Thomas R. Hallett
+592,Joseph Dalton Hooker
+593,Robert McCormick
+594,Henry Oakely
+595,John Sibbald
+596,Alexander J. Smith
+597,Charles T. Tucker
+598,James F. L. Wood
+599,Henry B. Yule
+600,Pownall P. Cotter
+601,John E. Davis
+602,Joseph W. Kay
+603,David Lyall
+604,Archibald McMurdo
+605,William Molloy
+606,Thomas E. L. Moore
+607,George H. Moubray
+608,Charles G. Philips
+609,John Robertson
+610,Peter A. Scott
+611,Quest (Shackleton)
+612,Harold Arthur Argles
+613,C. R. Carr
+614,James William Dell
+615,G. V. Douglas
+616,Eriksen
+617,Douglas George Jeffrey
+618,Bee Mason
+619,James W. S. Marr
+620,Norman Mooney
+621,C. Smith
+622,Watts
+623,G. Hubert Wilkins
+624,Aurora (Mackintosh)
+625,Arnold Spencer-Smith
+626,John Lachlan Cope
+627,Alexander Stevens
+628,Richard W. Richards
+629,Andrew Keith Jack
+630,Irvine Gaze
+631,Victory Hayward
+632,Aubrey Howard Ninnis
+633,Lionel Hooke
+634,Joseph Stenhouse
+635,Leslie Thompson
+636,Alfred Larkman
+637,C. Adrian Donnelly
+638,James Paton
+639,Clarence Maugher
+640,Sydney Atkin
+641,Arthur Downing
+642,William Kavanagh
+643,"A. ""Shorty"" Warren"
+644,Charles Glidden
+645,S. Grady
+646,William Mugridge
+647,Harold Shaw
+648,Edward Wise
+649,Emile d'Anglade
+650,Ernest Wild
+651,Toroa
+736,Overland (Expedition to Graham Land)
+737,Hubert Wilkins
+738,Maxime Charles Lester
+739,Thomas Bagshawe
+740,Albany (Knight)
+741,Discovery (Knight)
+742,James Knight
+743,Sabrina
+744,Thomas Freeman
+745,Fox (McClintock)
+746,Fox Expedition (1857)
+747,W. R. Hobson
+748,Allen W. Young
+749,David Walker
+750,George Brands
+751,Carl Petersen
+752,Thomas Blackwell
+753,William Harvey
+754,Henry Toms
+755,Alexander Thompson
+756,John Simmonds
+757,George Edwards
+758,Robert Scott
+759,Thomas Grinstead
+760,George Hobday
+761,Robert Hampton
+762,John A. Haselton
+763,George Carey
+764,Benjamin Pound
+765,William Walters
+766,William Jones
+767,James Pitcher
+768,Thomas Florance
+769,Richard Shingleton
+770,Anton Christian
+771,Samuel Emanuel
+772,Southern Cross (Borchgrevink)
+773,Carsten Borchgrevink
+774,Antarctic (whaler)
+775,Henryk Bull
+776,Johan A. Andersen
+777,Lars Anderson
+778,Carl H. J. Been
+779,Oscar M. Bjarko
+780,Karl Brynildsen
+781,Kolbein Ellifsen
+782,Hugh Blackwell Evans
+783,Anton Fougner
+784,Hans Hansen
+785,Nicolai Hanson
+786,Johannes Jahnsen
+787,Bernhard Jensen
+788,Axel Johansen
+789,Julius Johansen
+790,Hans J. Johnson
+791,Adolf M. Karlsen
+792,Klemet Klemetsen
+793,Herlof Klovstad
+794,Lars A. Larsen
+795,Olaf Larsen
+796,Franz Johan Magnussen
+797,Ole Must
+798,J. Christian Olsen
+799,Jorgen Petersen
+800,Ingvard Samuelsen
+801,Persen Savio
+802,Hans Ulis
+803,Ornen/Eagle
+804,S. A. Andree
+805,Knut Fraenkel
+806,Nils Strindberg
+807,Svalbard Sealing (1870s)
+808,Antarctic (sealer)
+809,Gullik Jensen
+810,Antarctic (Nordenskjold)
+811,Antarctic (Amdrup)
+812,Georg Carl Amdrup
+813,East-Greenland Coast Expedition (1900)
+814,Nikolaj Hartz
+815,Aggas (boat)
+816,Ejnar Mikkelsen
+817,Gustaf Akerlundh
+818,Axel Andersson
+819,K. A. Andersson
+820,F. L. Andreassen
+821,Ole Johnsen Bjornerud
+822,Gosta Bodman
+823,Samuel A. Duse
+824,Ole Peder Duus
+825,Erik Ekelof
+826,Toralf Grunden
+827,H. J. Haslum
+828,Wilhelm Holmberg
+829,Carl Johanse
+830,Ole Jonassen
+831,Anders Karlsen
+832,Geroge Karlsen
+833,N. Otto G. Nordenskjold
+834,Axel Ohlin
+835,Ole Olansen
+836,Axel Reinholdz
+837,G. F. Schonback
+838,Carl Skottsberg
+839,Jose Maria Sobral
+840,Frank Wilbert Stokes
+841,Tofte
+842,Anton Olsen Ula
+843,Ole Christian Wennersgaard
+844,Leonard Kristensen
+845,Johann Gunnar Anderson
+846,Fram (Nansen)
+847,Theodore Jacobsen
+848,Sigurd Scott Hansen
+849,Henrik Blessing
+850,Adolf Juell
+851,Ivor Mogstad
+852,Anton Amundsen
+853,Lars Pettersen
+854,Peter Henriksen
+855,Bernhard Nordahl
+856,Bernt Bentzen
+857,Fram (Sverdrup)
+858,Sverre Hassel
+859,Gunerius Isachsen
+860,Victor Baumann
+861,Olaf Raanes
+862,Edvard Bay
+863,Per Schei
+864,Karl Olsen
+865,Rudolf Stolz
+866,Jacob Nodtvedt
+867,Ivar Fosheim
+868,Herman Georg Simmons
+869,Peder Leonard Hendriksen
+870,Ove Braskerud
+871,Johan Svendsen
+872,Sidney O. Budington
+873,George Emory Tyson
+874,William Morton
+875,R. W. D. Bryan
+876,Emil Bessels
+877,Frederick Meyer
+878,Emil Schumann
+879,Ebierbing (Inuit)
+880,Tookoolito (Inuit)
+881,Merkut Hendrik (Greenlandic)
+882,Hubbard Chester
+883,HMS Enterprise (Ross)
+884,HMS Enterprise (Collinson)
+885,Edward Adams
+886,Alexander Armstrong
+887,HMS Investigator (McClure)
+888,Mackenzie River Expedition (1825)
+890,Richard King
+891,HMS Terror (Back)
+892,Frozen Strait Expedition (1836)
+893,Alexander von Tunzelmann
+894,Henryk Arctowski
+895,Frederick A. Cook
+896,Emile Danco
+897,Antoine Dobrowolski
+898,Gustav Dufour
+899,Ludvig-Hjalmar Johansen
+900,Engebret Knudsen
+901,Johan Koren
+902,Georges Lecointe
+903,Jules Melaerts
+904,Louis Michotte
+905,Jan Van Mirlo
+906,Emile Racovitza
+907,Max Van Rysselberghe
+908,Henri Somers
+909,Adam Tolfsen
+910,Carl Augustus Wiencke
+911,Arthur Fleming Morrell
+912,HMS Breadalbane
+913,HMS Phoenix (Inglefield)
+914,William H. Fawckner
+915,Francois Edmond Eugene Barlatier Demas
+916,Louis Le Breton
+917,Joseph Emmanuel Prosper Boyer
+918,Cesar Desraz
+919,Louis Jacques Ducorps
+920,Pierre Marie Alexandre Dumoutier
+921,Joseph Antoine Durach
+922,Charles Franxois Eugene Gervaize
+923,Jean-Marie Gourdin
+924,Jacques Bernard Hombron
+925,Pierre Antoine Lafonde
+926,Louis Emmanuel Le Maistre Duparc
+927,Jacques Maria Eugene Marescot-Duthilleul
+928,Aime August Elie Coupvent-Desbois
+929,Joseph Fidele Eugene Dubouzet
+930,Paul Louis Francois Rene De Flotte
+931,Jean Edmond Gaillard
+932,Felix Casimir Marie Huon de Kermadec
+933,Honore Jacquinot
+934,Elie Jean Francois Leguillou
+935,Antoine Auguste Therese Pavin de la Farge
+936,Louis Francois Marie tardy de Montravel
+937,Charles Jules Adolphe Thanaron
+938,Gustav Bahr
+939,Emil Berglof
+940,August Besenbrock
+941,Friedrich Bidlingmaier
+942,Paul Bjorvik
+943,Hans Dahler
+944,Josef Enzenperger
+945,Karl Franz
+946,Max Fisch
+947,Hans Gazert
+948,Paul Heinacker
+949,Willy Heinrich
+950,Daniel Johannsen
+951,Karl Kluck
+952,Wilhelm Lerche
+953,Karl Luyken
+954,Wilhelm Lysell
+955,Reinhold Mareck
+956,Reinhold Michael
+957,Leonhard Muller
+958,Josef Muller
+959,Georg Noack
+960,Ludwig Ott
+961,Emil Philippi
+962,Albert Possin
+963,August Reimers
+964,Lenart Reuterskjold
+965,Hans Ruser
+966,Wilhelm Schwartz
+967,Albert Stehr
+968,Curt Stjernblad
+969,Josef Urbansky
+970,Richard Vahsel
+971,Ernst Vanhoffen
+972,Emil Werth
+973,Georg Wienke
+974,Besnard
+975,E. Chollet
+976,P. Dayne
+977,Ernest Gourdon
+978,Goudier
+979,F. Guegen
+980,J. Guegen
+981,F. Herveou
+982,J. Jabet
+983,Libois
+984,A. Matha
+985,Robert Paumelle
+986,Paul Pleneau
+987,L. Poste
+988,Raymond Rallier du Baty
+989,J. Rey
+990,F. Rolland
+991,M. Rozo
+992,J. Turquet
+993,Maignan
+994,J. Bonnier
+995,Alfred Kling
+1754,Terra Nova (relief ship)
+1755,Baldwin-Ziegler North Pole Expedition (1901)
+1756,Ziegler/Fiala Polar Expedition (1903)
+1758,Anthony Fiala
+1759,America (ship)
+1760,William Peters
+1761,Terra Nova (Champ)
+1762,William S. Champ
+1763,J. Kjeldsen
+1764,Belgica (Bryde)
+1765,Evelyn Briggs Baldwin
+1766,Frithjof (relief ship)
+1767,Johansen
+1768,Edward Coffin
+1769,Walter Wellman
+1770,Franz Josef Land Expedition (1899)
+1771,John Bryde
+1772,America (Baldwin)
+1773,Paul Bjoervig
+1774,Svalbard Expedition (1894)
+1775,Wellman Airship Expedition (1906)
+1776,Paris (airship)
+1777,Wellman Airship Expedition (1910)
+1778,America (airship)
+1779,Wellman Airship Expedition (1911)
+1780,Akron (airship)
+1781,Melvin Vaniman
+1782,Emil Ellefsen
+1783,Olaf Ellefsen
+1784,Daniel Johansen
+1785,Private Julius Frederick
+1786,Private Roderick H. Schneider
+1787,Jens Edward
+1788,United States (schooner)
+1789,Magnus Smith
+1790,George Avery
+1791,W. H. Hooper
+1792,John Hutchinson
+1793,William J. Ibbett
+1794,J. Isemonger
+1795,Robert Jenkins
+1796,Robert P. Jenkins
+1797,Mr. Jesse
+1798,Mr. Johnson
+1799,E. N. Kendal
+1801,George Kennedy
+1802,Edward Langley
+1803,John Leask
+1804,James Lewis
+1805,William Leyson
+1806,J. J. Lindsay
+1807,John Miertsching
+1809,Neptune (Penny)
+1811,Voyage up Baffin's Bay (1839)
+1812,Peter S. Manico
+1813,Edward Mann
+1814,Clements R. Markham
+1815,H. Martin
+1816,H. Matthias
+1817,Edward S. Meara
+1818,L. J. Moore
+1886,Robert Edwin Peary
+1887,Crossing of Greenland (1886)
+1888,Overland (Crossing of Greenland)
+1889,Christian Maigaard
+1890,Northern Greenland Expedition (1891)
+1891,SS Kite
+1892,Matthew Henson
+1893,Adelie Land Station Staff
+1893,Eivind Astrup
+1894,Queen Mary Land Station Staff
+1894,Langdon Gibson
+1895,Macquarie Island Station Staff
+1895,John M. Verhoeff
+1896,Ship's Party
+1896,Josephine Diebitsch Peary
+1897,Roosevelt (Peary 1905)
+1898,Ellesmere Island Expedition (1905)
+1899,Attempt on the North Pole (1908)
+1900,Roosevelt (Peary 1908)
+1901,Ross Gilmore Marvin
+1902,Robert Bartlett
+1903,Attempt on the North Pole (1907)
+1904,Adolphus Greely
+1905,International Polar Expedition (1881)
+1906,Proteus (Greely)
+1907,Edward Israel
+1908,James Booth Lockwood
+1909,David Legge Brainard
+1910,Lady Franklin Bay Rescue Attempts
+1911,Thetis
+1912,Alert (Schley)
+1913,Winfield Scott Schley
+1914,Isaac Israel Hayes
+1915,Ellesmere Island Expedition (1860)
+1916,Vilhjalmur Stefansson
+1917,Karluk (Stefansson)
+1918,Karluk Expedition (1913)
+1919,Russian Circumnavigation Expedition (1803)
+1920,Nadezhda
+1921,Adam Johann von Krusenstern
+1922,George Peard
+1923,John Wainwright
+1924,Thomas Nelson
+1925,Alexander Collie
+1926,George Marsh
+1927,J. F. Gould
+1928,William Smyth
+1928,Philip Sharpe
+1929,James Wolfe
+1929,Overland (Rae-Richardson)
+1930,John Rendall
+1930,Daniel/Duncan Clarke
+1931,Richard B. Beechy
+1931,Thomas Selley
+1932,George T. Lay
+1932,William Dore
+1933,Thomas Neilson
+1933,George Stares
+1934,John Evans
+1934,Thomas Cousins
+1935,Charles H. Osmer
+1935,James M'Haren
+1936,John Crawley
+1936,David Brodie
+1937,John Hockley
+1937,Robert Graham
+1938,J. C. Barlow
+1938,Henry J. Ralph
+1939,Charles Lewis
+1939,Robert Mackie
+1940,John Richardson
+1940,Donald Fraser
+1941,James Clarkson
+1941,Edward Dodd
+1942,Thomas Garrett
+1942,Hugh Geddes
+1943,William H. Murdaugh
+1943,Richard Webber
+1944,William I. Lovell
+1944,James Mitchell
+1945,Henry De Roque
+1945,Jacob Hobbs
+1946,John Blinn
+1946,Thomas Bugbee
+1947,Gibson Caruthers
+1947,John Salter
+1948,Thomas Dunning
+1948,James Waddell
+1949,William West
+1949,Robert Dall
+1950,Charles Berry
+1950,John Herd
+1951,Louis Costa
+1951,Robert Tullock
+1952,William Holmes
+1952,John Abernethy
+1953,Edward Wilson
+1953,John Senior
+1954,William Benson
+1954,Neil McLeod
+1955,Edward C. Delano
+1955,William Hepburne
+1956,James Smith
+1956,Jerome St. George
+1957,Samuel P. Griffin
+1957,C. de H. Whiddon
+1958,Robert R. Carter
+1958,A. C. Petersen
+1959,Henry Brooks
+1960,Benjamin Vreeland
+1960,Frederick Schwatka
+1961,William J. Kurner
+1961,American Search for Franklin (overland)
+1962,Auguste Canot
+1962,American Search for Franklin Expedition (1878)
+1963,John Williams
+1963,Alexander Anderson
+1964,Robert Bruce
+1964,Charles Barker
+1965,William Lincoln
+1965,John Munro
+1966,Smith Benjamin
+1966,Robert Williamson
+1967,Rufus C. Baggs
+1967,John Brady
+1968,David Davis
+1968,Edmund Lawrence Golightly
+1969,James Johnson
+1969,T. Stanley Morris
+1970,James Stewart
+1970,"Hugh ""Clam"" Williams"
+1971,Alexander Daly
+1971,George Breddy
+1972,H. J. White
+1972,Fred Maurer
+1973,Robert Templeman
+1974,John Wall Wilson
+1974,Ernest Chafe
+1975,James McGary
+1975,M. Henri Beuchat
+1976,George Riley
+1976,Diamond Jenness
+1977,Christian Ohlsen
+1977,George Stewart Malloch
+1978,Henry Goodfellow
+1978,Bjarne Mamen
+1979,August Sontag
+1979,Burt McConnell
+1980,Amos Bonsall
+1980,William Laird McKinlay
+1981,George Stephenson
+1981,George H. Wilkins
+1982,George Whipple
+1982,Pauyuraq
+1983,William Godfrey
+1983,Asecaq
+1984,John Blake
+1984,Kataktovik
+1985,Jefferson Baker
+1985,Kuraluk
+1986,Peter Schubert
+1986,Kiruk
+1987,Thomas Hickey
+1987,Helen
+1988,James Fitzjames
+1988,Mugpi
+1989,Graham Gore
+1989,John Hadley
+1990,Charles Frederick Des Voeux
+1990,Pilot
+1991,Edward Little
+1991,Pilot
+1992,Robert Thomas
+1992,50 Seamen
+1993,Stephen Samuel Stanley
+1993,Corporal
+1994,Harry Goodsir
+1994,Steward
+1995,George H. Richards
+1995,Carpenter's Crew
+1996,Walter Walter May
+1996,Carpenter's Crew
+1997,John P. Cheyne
+1997,Carpenter's Mate
+1998,J. F. Loney
+1998,Carpenter's Mate
+1999,T. Allard
+1999,Boatswain
+2000,F. B. Herbert
+2000,Gunner
+2001,James Blair Grove
+2001,Carpenter
+2002,F. W. Pym
+2002,Purser
+2003,J. B. Ricards
+2003,Surgeon's Mate
+2004,F. Y. Toms
+2004,Cook
+2005,J. Taylor
+2005,Master's Mate
+2006,Mr. Kerr
+2006,Master's Mate
+2007,George Frederick Mecham
+2007,Master's Mate
+2008,Bedford C. T. Pim
+2008,Midshipman
+2009,Richard Vesey Hamilton
+2009,Midshipman
+2010,Midshipman
+2011,Frederick J. Krabbe
+2011,Midshipman
+2012,William T. Domville
+2012,Midshipman
+2013,Richard Roche
+2013,Captain's Clerk
+2014,Emile F. de Bray
+2014,Quartermaster
+2015,R. C. Scott
+2015,Quartermaster
+2016,William Dean
+2016,Quatermaster's Mate
+2017,T. C. Pullen
+2017,Boatswain's Mate
+2018,William Shellabeer
+2018,Boatswain's Mate
+2019,R. M'Cormick
+2019,Coxswain
+2020,A. H. Alston
+2020,Master Sail-maker
+2021,Sail-maker's Crew
+2022,George A. Phayre
+2022,Gunner's Mate
+2023,John J. Barnard
+2023,Yeoman of the Powder Room
+2024,Charles T. Jago
+2024,Quarter Gunner
+2025,Robert Anderson
+2025,Armourer
+2026,M. T. Parkes
+2027,Francis Skead
+2027,Mr. Lewis
+2028,Edward Whitehead
+2028,Mate (merchant)
+2029,William H. Haswell
+2029,Carpenter
+2030,Samuel G. Creswell
+2030,Sailmaker
+2031,H. H. Sainsbury
+2031,Cook
+2032,Robert J. Wynniatt
+2032,James Haig
+2033,Stephen Court
+2033,Leading Man
+2034,Henry Piers
+2034,Leading Man
+2035,J. C. Paine
+2035,Leading Man
+2036,HMS Sulphur (Belcher)
+2036,Serjeant Wise
+2037,Pacific Exploration
+2037,"Private of Marines, 2nd Class"
+2038,Henry T. D. Le Vesconte
+2038,"Private, 3rd Class"
+2039,James Walter Fairholme
+2039,"Private, 3rd Class"
+2040,Robert Orme Sergeant
+2040,"Private, 3rd Class"
+2041,Edward Couch
+2041,"Private, 3rd Class"
+2042,Henry Foster Collins
+2042,Captain Royal Artillery
+2043,John Gregory
+2043,Serjeant Martin
+2044,Thomas Terry
+2044,"Private, Marines"
+2045,John Weekes
+2045,"Private, Marines"
+2046,John Murray
+2046,"Private, Marines"
+2047,William Smith
+2047,"Private, Marines"
+2048,Thomas Burt
+2048,"Corporal, Marines"
+2049,James W. Brown
+2049,Sailmaker
+2050,Thomas Watson
+2050,Cook
+2051,Samuel Brown
+2051,Carpenter
+2052,Richard Wall
+2052,Mate (merchant)
+2053,James Rigden
+2053,Master (merchant)
+2054,William Bell
+2054,Leading man
+2055,Daniel Arthur
+2055,Leading man
+2056,John Downing
+2056,Leading man
+2057,Robert Sinclair
+2057,Robert Spinks
+2058,John Sullivan
+2058,Enterprise (Parry)
+2059,Phillip Reddington
+2059,Endeavour (Ross)
+2060,Joseph Andrews
+2060,Andre Norem
+2061,Edmund Hoar
+2061,Prince of Wales (HBC)
+2062,John Bridgens
+2062,Steersman
+2063,Richard Aylmore
+2063,Boat crew
+2064,William Fowler
+2064,Attendant
+2065,John Cowie
+2065,Attendant
+2066,Thomas Plater
+2066,Samuel Wilkes
+2067,George Thompson
+2067,Frederick Wentzel
+2068,John Hartnell
+2068,Joseph Peltier
+2069,John Stickland
+2069,"Matthew Pelonquin, dit Credit"
+2070,Thomas Hartnell
+2070,Solomon Belanger
+2071,William Orren
+2071,Jospeh Benoit
+2072,William Closson
+2072,Joseph Gagne
+2073,Charles Coombs
+2073,Pierre Dumas
+2074,John Morfin
+2074,Joseph Forcier
+2075,Charles Best
+2075,Ignace Perrault
+2076,Thomas McConvey
+2076,Francois Samandre
+2077,Henry Lloyd
+2077,Gabriel Beauparlant
+2078,Thomas Work
+2078,Vincenza Fontano
+2079,Robert Ferrier
+2079,Registe Vaillant
+2080,Josephus Geater
+2080,Jean Baptiste Parent
+2081,Thomas Tadman
+2081,Jean Baptiste Belanger
+2082,Abraham Seeley
+2082,Jean Baptiste Belleau
+2083,Francis Pocock
+2083,Emanuel Cournoyee
+2084,Robert Johns
+2084,Michel Teroahaute
+2085,William Mark
+2085,Pierre St. Germain
+2086,David Bryant
+2086,Jean Baptiste Adam
+2087,Alexander Pearson
+2087,Chipewyan Bois Brules
+2088,Robert Hopcraft
+2088,Augustus
+2089,William Pilkington
+2089,Junius
+2090,William Braine
+2090,William Lancaster
+2091,Joseph Healey
+2091,John Pearson
+2092,William Reed
+2092,Peter Fisher
+2093,George Chambers
+2093,"Serjt. Martin, R.A."
+2094,David Young
+2094,"Serjt. M'Mahon, R.M."
+2095,George Henry Hodgson
+2095,William Dick
+2096,John Irving
+2096,Richard Drew
+2097,Frederick John Hornby
+2097,Joseph Kately
+2098,Giles Alexander McBean
+2098,Benjamin Scrivener
+2099,Thomas Blanky
+2099,Benjamin Hadman
+2100,John Smart Peddie
+2100,William Scott
+2101,Alexander McDonald
+2101,Seaman
+2102,E. J. Helpman
+2102,Seaman
+2103,James Thompson
+2103,Seaman
+2104,John Lane
+2104,Seaman
+2105,Thomas Honey
+2105,Seaman
+2106,Thomas Johnson
+2106,Seaman
+2107,Alexander Wilson
+2107,Seaman
+2108,Reuben Male
+2108,Seaman
+2109,David McDonald
+2109,Seaman
+2110,John Kenley
+2110,Seaman
+2111,William Rhodes
+2111,Seaman
+2112,Thomas Darlington
+2112,Seaman
+2113,Samuel Honey
+2113,Seaman
+2114,John Torrington
+2114,Seaman
+2115,John Diggle
+2115,Seaman
+2116,John Wilson
+2116,Seaman
+2117,Thomas R. Farr
+2117,Seaman
+2118,Harry Peglar
+2118,Seaman
+2119,William Goddard
+2119,Seaman
+2120,Cornelius Hickey
+2120,Seaman
+2121,Thomas Jopson
+2121,Seaman
+2122,Thomas Armitage
+2122,Seaman
+2123,William Gibson
+2123,Seaman
+2124,Edward Genge
+2124,Seaman
+2125,Luke Smith
+2125,Seaman
+2126,William Johnson
+2126,Seaman
+2127,George J. Cann
+2127,Seaman
+2128,William Strong
+2128,Marine private
+2129,David Sims
+2129,Marine private
+2130,John Bailey
+2130,Marine private
+2131,William Jerry
+2131,Marine private
+2132,Henry Sait
+2132,Marine private
+2133,Alexander Berry
+2133,Marine private
+2134,John Hadford
+2134,Marine private
+2135,John Bates
+2135,Marine private
+2136,Samuel Crispe
+2136,Seaman
+2137,Charles Johnson
+2137,Seaman
+2138,William Shanks
+2138,Seaman
+2139,David Leys
+2139,Seaman
+2140,William Sinclair
+2140,Seaman
+2141,George Kinnaird
+2141,Seaman
+2142,Edwin Lawrence
+2142,Seaman
+2143,Magnus Manson
+2143,Seaman
+2144,James Walker
+2144,Seaman
+2145,William Wentzall
+2145,Seaman
+2146,Solomon Tozer
+2146,Seaman
+2147,William Hedges
+2147,Seaman
+2148,William Heather
+2148,Seaman
+2149,Henry Wilkes
+2149,Seaman
+2150,John Hammond
+2150,Seaman
+2151,James Daly
+2151,Seaman
+2152,Robert Golding
+2152,Seaman
+2153,Thomas Evans
+2153,Seaman
+2154,R. T. Legg
+2154,Seaman
+2155,John Atkinson
+2155,Seaman
+2156,George Arbuthnot
+2156,Seaman
+2157,W. N. Wise
+2157,Cook
+2158,J. T. Turner
+2158,James Richardson
+2159,James Woodward
+2159,Leading Man
+2160,William Waldron
+2160,Leading Man
+2161,Thomas Bugbee
+2161,Leading Man
+2162,William Driver
+2162,William Souter
+2163,Joshua Page
+2163,Gunner's Mate
+2164,Hyram Hester
+2164,Boatswain's Mate
+2165,Christian Jacobson
+2165,John Reid
+2166,Charles Elmore
+2166,Armourer's Mate
+2167,William Gowen
+2167,Sailmaker
+2168,William Luxford
+2168,Able Seaman
+2169,James Rich
+2169,Able Seaman
+2170,Hyram Forder
+2170,Able Seaman
+2171,Samuel Belither
+2171,Able Seaman
+2172,Lewis Carroll
+2172,Able Seaman
+2173,Hyram Sargent
+2173,Able Seaman
+2174,Robert Grant
+2174,Able Seaman
+2175,John McLaskey
+2175,Able Seaman
+2176,Thomas Naylor
+2176,Able Seaman
+2177,William Scott
+2177,Able Seaman
+2178,Vincent Bulkeley
+2178,Able Seaman
+2179,John Nutcher
+2179,Able Seaman
+2180,William Murray
+2180,Able Seaman
+2181,J. E. Davidson
+2181,Able Seaman
+2182,William Marshall
+2182,Able Seaman
+2183,James Davidge
+2183,Able Seaman
+2184,John Wenman
+2184,Able Seaman
+2185,Richard Shingleton
+2185,Able Seaman
+2186,Charles Harris
+2186,Able Seaman
+2187,Rodger Reid
+2187,Able Seaman
+2188,Richard Thomas
+2188,Able Seaman
+2189,James Edmunds
+2189,Able Seaman
+2190,William French
+2190,Able Seaman
+2191,John Elsey
+2191,Able Seaman
+2192,Hyram Selby
+2192,Marine Corporal
+2193,William Smith
+2193,Marine Private
+2194,John Charters
+2194,Marine Private
+2195,William Worchurst
+2195,Marine Private
+2196,George Fowler
+2196,Marine Private
+2197,John Murphy
+2197,Marine Private
+2198,George Johnson
+2198,Astronomer's Servant
+2199,Arthur Dickens
+2199,Sailmaker
+2200,William Hutchenson
+2200,Cook
+2201,Timothy Horn
+2201,Leading Man
+2202,William Jefferson
+2202,Leading Man
+2203,Charles Leggatt
+2203,Leading Man
+2204,Thomas Cousins
+2204,Leading Man
+2205,G. M. T. Bosquet
+2205,Quarter-Master
+2206,John Elliot
+2206,Gunner's Mate
+2207,Joseph Wood
+2207,Boatswain's Mate
+2208,George Burns
+2208,Carpenter's Mate
+2209,Richard Young
+2209,Armourer's Mate
+2210,John Carstairs
+2210,Benjamin White
+2211,Phineas Kimble
+2211,John Lee
+2212,Alfred Ball
+2212,Mr. Arnold
+2213,Watson Wilson
+2213,James Carr
+2214,William Smith
+2214,James Pringle
+2215,William Littlefield
+2215,George Dunn
+2216,Thomas O'Bryan
+2216,Alexander Gordon
+2217,William Cooper
+2217,Able Seaman
+2218,Joseph Wiggins
+2218,Able Seaman
+2219,Samuel Perkins
+2219,Able Seaman
+2220,William Greenaway
+2220,Able Seaman
+2221,William Simpkins
+2221,Able Seaman
+2222,W. W. Davis
+2222,Able Seaman
+2223,Isaac Jeffrey
+2223,Able Seaman
+2224,James Moss
+2224,Able Seaman
+2225,Richard Hill
+2225,Able Seaman
+2226,William Woodhead
+2226,Able Seaman
+2227,Thomas Bratt
+2227,Able Seaman
+2228,George Deverell
+2228,Able Seaman
+2229,James Adams
+2229,Able Seaman
+2230,James Mayers
+2230,Able Seaman
+2231,John Eyre
+2231,Able Seaman
+2232,William Cheeseman
+2232,Able Seaman
+2233,Pelham Aldrich
+2233,Able Seaman
+2234,Robert Hugh Archer
+2234,Marine corporal
+2235,Lewis Anthony Beaumont
+2235,Marine private
+2236,James Berrie
+2236,Marine private
+2237,James Blakely
+2237,Marine private
+2238,Samuel Bulley
+2238,Marine private
+2239,George Bryant
+2239,Marine private
+2240,George Bunyan
+2240,Francis Dunn
+2241,George I. Burroughs
+2241,James Wilkes
+2242,"James ""Frederick"" Cane"
+2242,Cook
+2243,Speru Capato
+2243,Leading man
+2244,Jame F. Caul
+2244,Leading man
+2245,Daniel Cartmel
+2245,Leading man
+2246,Thomas Chalkley
+2246,Leading man
+2247,Frank Chatel
+2247,Quartermaster
+2248,Thomas Colan
+2248,Gunner's mate
+2249,Crawford J. M. Conybeare
+2249,Carpenter's mate
+2250,James Cooper
+2250,Boatswain's mate
+2251,Richard William Coppinger
+2251,Carpenter's mate
+2252,Peter Craig
+2252,Armourer's mate
+2253,George Cranston
+2253,Sailmaker
+2254,John Cropp
+2254,Captain's steward
+2255,Thomas Darke
+2255,Able seaman
+2256,David Deuchars
+2256,Able seaman
+2257,William Dobing
+2257,Able seaman
+2258,James Doidge
+2258,Able seaman
+2259,Vincent Dominics
+2259,Able seaman
+2260,William Dougall
+2260,Able seaman
+2261,Henry William Edmonds
+2261,Able seaman
+2262,Edward C. Eddy
+2262,Able seaman
+2263,George le Clerc Egerton
+2263,Able seaman
+2264,William Ellard
+2264,Able seaman
+2265,George W. Emmerson
+2265,Able seaman
+2266,William Ferbrache
+2266,Able seaman
+2267,Alfred Hindle
+2267,Able seaman
+2268,Reuben Francombe
+2268,Able seaman
+2269,F. Frederick
+2269,Able seaman
+2270,H. W. Fielden
+2270,Able seaman
+2271,Reginald B. Fulford
+2271,Able seaman
+2272,Jonah Gear
+2272,Able seaman
+2273,George A. Giffard
+2273,Able seaman
+2274,Joseph Good
+2274,Able seaman
+2275,William J. Gore
+2275,Able seaman
+2276,George Granton
+2276,Able seaman
+2277,Alexander Gray
+2277,Able seaman
+2278,Chichester H. Hart
+2278,Able seaman
+2279,Daniel W. Harley
+2279,Able seaman
+2280,John Hawkins
+2280,Marine corporal
+2281,Hans Heindrich
+2281,Marine private
+2282,Elias Hill
+2282,Marine private
+2283,Marine private
+2284,Robert Hitchcock
+2284,Marine private
+2285,John Hodges
+2285,Marine private
+2286,John Charles E. Hodson
+2286,Cook
+2287,John Hollins
+2287,Leading man
+2288,William Hunt
+2288,Leading man
+2289,William Jenkins
+2289,Leading man
+2290,Robert Joiner
+2290,Leading man
+2291,Thomas Joliffe
+2291,Quartermaster
+2292,Frank Jones
+2292,Gunner's mate
+2293,George Kemish
+2293,Boatswain's mate
+2294,Edwin Lawrence
+2294,Carpenter's mate
+2295,James Legatt
+2295,Carpenter's mate
+2296,William Lorimer
+2296,Armourer's mate
+2297,William Malley
+2297,Sailmaker
+2298,Henry Mann
+2298,Captain's steward
+2299,William Maskell
+2299,John Cotterell
+2300,William Henry May
+2300,John Page
+2301,Matthew Richard Miller
+2301,Able seaman
+2302,Henry Mills
+2302,Able seaman
+2303,David Mitchell
+2303,Able seaman
+2304,Edward Lawton Moss
+2304,Able seaman
+2305,John Murray
+2305,Able seaman
+2306,Belgrave Ninnis
+2306,Able seaman
+2307,Arthur Norris
+2307,Able seaman
+2308,Thomas Oakley
+2308,Able seaman
+2309,A. A. Chase Parr
+2309,Able seaman
+2310,Alfred Pearce
+2310,Able seaman
+2311,John Pearson
+2311,Able seaman
+2312,Henry Petty
+2312,Able seaman
+2313,James Phillips
+2313,Able seaman
+2314,George Porter
+2314,Able seaman
+2315,W. H. Pullen
+2315,Able seaman
+2316,John N. Radmore
+2316,Able seaman
+2317,Thomas Rawlins
+2317,Able seaman
+2318,Wyatt Rawson
+2318,Able seaman
+2319,Elijah Rayner
+2319,Able seaman
+2320,Jeremiah Rourke
+2320,Able seaman
+2321,Michael Regan
+2321,Able seaman
+2322,John Langston Saggers
+2322,Able seaman
+2323,George R. Sarah
+2323,Able seaman
+2324,James Self
+2324,Marine corporal
+2325,James Sheppard
+2325,Marine private
+2326,John Shirley
+2326,Marine private
+2327,John Simmons
+2327,Marine private
+2328,Thomas Simmons
+2328,Marine private
+2329,Thomas H. Simpson
+2329,Marine private
+2330,John E. Smith
+2330,Cooper
+2331,Thomas Smith
+2331,Crew
+2332,David Stewart
+2332,Mr. Mathewson
+2333,George Stone
+2333,Crew
+2334,James Strombeck
+2334,Crew
+2335,Thomas Stubbs
+2335,Crew
+2336,Thomas Stuckberry
+2336,Crew
+2337,William R. Sweet
+2337,Crew
+2338,John Symons
+2338,Crew
+2339,Robert D. Symonds
+2339,Crew
+2340,David Taws
+2340,Crew
+2341,John Thores
+2341,Crew
+2342,James Thornback
+2342,Crew
+2343,William Waller
+2343,Crew
+2344,William Ward
+2344,Crew
+2345,William Charles Wellington
+2345,Crew
+2346,George White
+2346,Crew
+2347,Henry Winser
+2347,Crew
+2348,George Winstone
+2348,Crew
+2349,William Wood
+2349,Crew
+2350,William P. Woolley
+2350,Crew
+2351,James Wootton
+2351,Crew
+2352,Benjamin Wyatt
+2352,John Atkinson
+2353,Henry W. Edwards
+2353,Francisco Antonio
+2354,Daniel Girard
+2354,Crew
+2355,Ship's boy
+2356,Great Fish (Back) River Expedition (1833)
+2356,Crew
+2357,Great Fish (Back) River Expedition (Overland)
+2357,Crew
+2358,Crew
+2359,Louison
+2359,Crew
+2360,Unnamed man 2
+2360,Crew
+2361,Crew
+2362,Crew
+2363,Paul
+2363,Crew
+2364,James M'Kay
+2364,Crew
+2365,George Sinclair
+2365,Crew
+2366,Thomas Matthews
+2366,William Must
+2367,William Matthews
+2367,Marine
+2368,John Ross
+2368,Joseph Bowers
+2369,William Malley
+2369,John Dray
+2370,Hugh Carron
+2370,Ship's boy
+2371,David Williamson
+2371,Thomas Uren
+2372,William Rowland
+2372,Crew
+2373,Thomas Anderson
+2373,Crew
+2374,Malcom Smith
+2374,Crew
+2375,Donald M'Donald
+2375,William Aldrige
+2376,Morrison Morrison
+2376,George Shields
+2377,James Spence
+2377,Thomas Hazlehurst
+2378,Peter Taylor
+2378,James Bailey
+2379,Charles Boulanger
+2379,Thomas Moore
+2380,Pierre Kanaquasse
+2380,Crew
+2381,Thomas Hassel
+2381,Crew
+2382,Antoine De Charloit
+2382,Crew
+2383,Antoine La Charite
+2383,Crew
+2384,Olivier Seguin
+2384,Crew
+2385,Pierre Ateasta
+2385,Crew
+2386,Francois Hoole
+2386,Crew
+2387,Maufelly
+2387,Crew
+2388,Crew
+2389,Charles M'Kenzie
+2389,Crew
+2390,George Green
+2390,Crew
+2391,Crew
+2392,Crew
+2393,Thomas Donaldson
+2393,Crew
+2394,Owen Stanley
+2394,Crew
+2395,James Saunders
+2395,Crew
+2396,James Donovan
+2396,Crew
+2397,Peter Fisher
+2397,Crew
+2398,Charles Marcuard
+2398,Crew
+2399,James/John A. Mould
+2399,Crew
+2400,William Lawes
+2400,Crew
+2401,John Vaughan
+2401,Crew
+2402,John Smith
+2402,Crew
+2403,John Maslin
+2403,Crew
+2404,Henry Plumstead
+2404,Crew
+2405,Crew
+2406,William Light
+2406,Crew
+2407,Anthony Buck
+2407,Crew
+2408,Allen Macinnes
+2408,Crew
+2409,James Marslin
+2409,Crew
+2410,John Park
+2410,Crew
+2411,James Curtis
+2411,Crew
+2412,John Wood
+2412,Crew
+2413,Richard Shreeve
+2413,Crew
+2414,Henry Eyre
+2414,Crew
+2415,Thomas Abernethy
+2415,Crew
+2416,Chimham Thomas
+2416,Crew
+2417,George Taylor
+2417,Crew
+2418,Alexander Brunton
+2418,Crew
+2419,Barney Lachey
+2419,Crew
+2420,David Wood
+2420,Crew
+2421,James Dixon
+2421,Crew
+2422,George Baxter
+2422,Crew
+2423,Crew
+2424,William Hardy
+2424,Crew
+2425,Barnard Laughy
+2425,Crew
+2426,John Sacheuse (Greenlandic)
+2426,Crew
+2427,William Robertson
+2427,Crew
+2428,John Edwards
+2428,Crew
+2429,Charles James Beverley
+2429,Falcon Expedition (1893)
+2430,A. M. Skene
+2430,Falcon (Peary)
+2431,John Bushman/Bushnan
+2431,Edward Vincent
+2432,Benjamin Lewis
+2432,Walter T. Swain
+2433,Thomas Wilcox
+2433,George H. Clark
+2434,H. H. Hoppner
+2434,George W. Carr
+2435,Ph. Bisson
+2435,Hugh Lee
+2436,Joseph Nias
+2436,Mrs. Cross
+2437,Alexander Fisher
+2437,Samuel J. Entrikin
+2438,William Harvey Hooper
+2438,Thomas Drummond
+2439,John Allison
+2439,George Wilson
+2440,Joseph Philips
+2440,Robert Hallom
+2441,James/John Halse
+2441,Marine
+2442,Marine
+2443,31 Able seamen
+2444,37 Total on board
+2444,Thomas Mathews
+2445,Lavalle
+2446,John Duke
+2446,Baptiste
+2447,John Jermain/Germain
+2447,Gustavus Aird
+2448,Charles Palmer
+2448,Thomas Fuller
+2449,William Justin Dealy
+2449,William Duncan
+2450,William G. Borland
+2450,Blacksmith
+2451,Cyrus Wakeham
+2451,Archibald Stewart
+2452,Peter Bruce
+2452,Neil Mac Donald
+2453,George Crawford
+2453,Charles Mackenzie
+2454,Thomas Hebrow
+2454,Robert Spence
+2455,43 Seamen and Marines
+2455,Alexander Currie
+2456,William Barrett
+2456,Thomas Gillet
+2457,Andrew Reid
+2457,John M'Lellan
+2458,Alexander Gilfillan
+2458,Shadrach Tysoe
+2459,William Cotsell/Castell
+2459,John M'Leay
+2460,George Fife
+2460,George Munroe
+2461,George Kirby
+2461,William Money
+2462,James Bowden
+2462,John M'Duffey
+2463,27 Seamen and Marines
+2463,George Harkness
+2464,HMS Hecla (Parry 1819)
+2464,Francois Felix
+2465,John Scallon
+2465,Alexis Vivier
+2466,Jacob Swansea
+2466,Boy
+2467,William Wallis
+2467,Boy
+2468,Artillery private
+2468,Mr. Dease
+2469,Matthew Liddon
+2469,Beaulieu
+2470,William Nelson Griffiths
+2471,Alexander Elder
+2471,Ooligbuck
+2472,Marine corporal
+2472,John (whaler)
+2473,HMS Hecla (Lyon 1821)
+2473,Coombe
+2474,James Skeoch
+2474,Muirhead
+2475,John Henderson
+2475,Robb
+2476,William Smith
+2476,Crew
+2477,George Fiddis
+2477,Crew
+2478,John Spackman
+2478,Crew
+2479,Crew
+2480,Allan Mac Laren
+2480,Crew
+2481,Joseph Sherer
+2481,Crew
+2482,Charles Richards
+2482,Crew
+2483,William Mogg
+2483,Crew
+2484,Joseph Macklin
+2484,Crew
+2485,Joseph Lilley
+2485,Crew
+2486,Charles Purfer
+2486,Crew
+2487,Charles Wise
+2487,Crew
+2488,Crew
+2489,Crew
+2490,Crew
+2491,HMS Hecla (Parry 1824)
+2491,Crew
+2492,John Land Wynn
+2492,Crew
+2493,Henry Foster
+2493,Crew
+2494,Samuel Neill
+2494,Crew
+2495,John Brunton
+2495,Crew
+2496,Horatio Nelson Head
+2496,Crew
+2497,James Harrison
+2497,Crew
+2498,John Brothers
+2498,Crew
+2499,George Champion
+2499,Crew
+2500,Crew
+2501,HMS Fury (Hoppner 1824)
+2501,Crew
+2502,Thomas Bell
+2502,Crew
+2503,Berkley Westropp
+2503,Crew
+2504,Charles Crump Waller
+2504,Crew
+2505,James Moore
+2505,Crew
+2506,William Wentworth
+2506,Crew
+2507,John Morrison
+2507,Crew
+2508,Crew
+2509,Hecla and Fury Expedition (1824)
+2509,Crew
+2510,William Tather
+2510,Crew
+2511,M. G. H. W. Ross
+2511,Crew
+2512,R. H. Grounsell
+2512,Crew
+2513,Robert L. Tracey
+2513,Crew
+2514,Crew
+2515,John Brett Anderson
+2515,Crew
+2516,Berthold Seemann
+2516,Crew
+2517,Thomas Woodward
+2517,Crew
+2518,J. G. Whiffin
+2518,Crew
+2519,Thomas A. Hull
+2519,Crew
+2520,W. Billings
+2520,Crew
+2521,W. Parsons
+2521,Crew
+2522,T. Bourchier
+2522,Crew
+2523,William Chimmo
+2523,Crew
+2524,Henry Trollope
+2524,Crew
+2525,Crew
+2526,Crew
+2527,Bertie Cator
+2528,Krusenstern (support vessel)
+2529,Charles Gerrans Phillips
+2529,Thomas Larke
+2530,David Porteous
+2530,Mr. Roberts
+2531,Crew
+2532,Kudlago
+2532,Edward Bradley
+2533,Frank Rogers
+2533,George Barker
+2534,A. J. Gardiner
+2534,James Angelly
+2535,Reuben Lamb
+2535,Crew
+2536,Robert Smith
+2536,Crew
+2537,C. Keeney
+2537,Crew
+2538,E. W. Morgan
+2538,Crew
+2539,A. Bailey
+2539,Crew
+2540,W. F. Roberts
+2540,Crew
+2541,William R. Sterry
+2541,Crew
+2542,J. R. Hudson
+2542,Crew
+2543,George Beckwith
+2543,Crew
+2544,R. A. Comstock
+2544,Crew
+2545,H. Smith
+2545,Crew
+2546,A. S. Bradley
+2547,J. B. Neil
+2547,Crew
+2548,J. Buckley
+2548,Crew
+2549,S. Willson
+2549,Crew
+2550,W. B. Russell
+2550,Crew
+2551,J. Gray
+2551,Crew
+2552,W. Stokes
+2552,Crew
+2553,W. Conley
+2553,Crew
+2554,W. Ellard
+2554,Crew
+2555,M. Silva
+2555,Crew
+2556,W. Johnson
+2556,Crew
+2557,J. Bruce
+2557,Crew
+2558,J. Antonio
+2558,Crew
+2559,F. Silva
+2559,Crew
+2560,J. Brown
+2560,Crew
+2561,Walter Grinnell
+2561,Crew
+2562,E. A. Chapel
+2562,Crew
+2563,Charles Rudolph
+2563,Crew
+2564,Lieutenant Inman
+2564,Crew
+2565,Mr. Hamilton
+2565,Crew
+2566,Robert Dawes Aldrich
+2566,Crew
+2567,William Browne
+2567,Crew
+2568,George Frederick McDougall
+2568,Crew
+2569,Robert Calder Allen
+2569,Crew
+2570,Abraham Rose Bradford
+2570,Crew
+2571,John E. Brooman
+2571,Crew
+2572,Richard Bulkeley Pearse
+2572,Crew
+2573,James E. Elliott
+2573,Crew
+2574,James J. L. Donnett
+2574,Crew
+2575,George R. Keene
+2576,Charles Ede
+2576,Crew
+2577,Edward N. Harrison
+2577,Crew
+2578,Thomas R. Pickthorne
+2578,Crew
+2579,John H. Allard
+2579,Crew
+2580,John Ward
+2580,Crew
+2581,John Marshall
+2581,Crew
+2582,John Leiper
+2582,Crew
+2583,John Stewart
+2583,Crew
+2584,Thomas R. Anstruther Goodsir
+2584,Crew
+2585,Mr. Petersen
+2585,Crew
+2586,Alexander Stewart
+2586,Crew
+2587,Donald Manson
+2587,Crew
+2588,James Reid
+2588,Crew
+2589,Peter C. Sutherland
+2589,Crew
+2590,Mary (yacht tender)
+2590,Crew
+2591,Crew
+2592,Crew
+2593,John W. Goodsell
+2593,Crew
+2594,Donald B. MacMillan
+2594,Crew
+2595,George Borup
+2595,Crew
+2596,George A. Wardwell
+2596,Crew
+2597,Thomas Gushue
+2597,Crew
+2598,John Murphy
+2598,Crew
+2599,Banks Scott
+2599,Crew
+2600,Charles Percy
+2600,Crew
+2601,William Pritchard
+2601,Crew
+2602,John Connors
+2602,Crew
+2603,John Coady
+2603,Crew
+2604,John Barnes
+2604,Crew
+2605,Dennis Murphy
+2605,Crew
+2606,George Percy
+2606,Crew
+2607,J. Bently
+2607,Crew
+2608,Patrick Joyce
+2608,Crew
+2609,Patrick Skeans
+2609,Crew
+2610,John Wiseman
+2610,Crew
+2611,Ootah
+2611,Crew
+2612,Egingwah
+2612,Crew
+2613,Seegloo
+2613,Crew
+2614,Ooqueah
+2614,Crew
+2615,Aletah
+2615,Crew
+2616,Ooblooyah
+2616,Crew
+2617,Inighito
+2617,Crew
+2618,Cookswah Inighito
+2618,Crew
+2619,Ookeyah
+2619,Crew
+2620,Wesharpkoopsie
+2620,Crew
+2621,Keshungwah
+2621,Crew
+2622,Koolatoonah
+2622,Crew
+2623,Onwagipsoo
+2623,Crew
+2624,Karko
+2624,Crew
+2625,Kyutah
+2625,Crew
+2626,Tawchingwah
+2626,Crew
+2627,Arko
+2627,Crew
+2628,Pingahshoo
+2628,Crew
+2629,Kudlooktoo
+2629,Crew
+2630,Pooadloonah
+2630,Bon Accord (Penny)
+2631,Panikpah
+2631,George Thomson
+2632,Kudlah
+2632,James Cook
+2633,Windward Expedition (1898)
+2633,British Naval Expedition (1768)
+2634,Windward (Bartlett)
+2634,HMS Endeavour (Cook)
+2635,John Bartlett
+2635,Sir Joseph Banks
+2636,Moses Bartlett
+2636,Daniel Solander
+2637,Murtagh Malone
+2637,British Naval Expedition (1772)
+2638,John R. Bradley (schooner)
+2638,HMS Resolution (Cook)
+2639,Rudolph Franke
+2639,HMS Adventure (Furneaux)
+2640,Louie J. Wolf
+2640,Tobias Furneaux
+2641,Charles Clark
+2641,Joseph Gilbert
+2642,Hecla (Parry 1827)
+2642,William Hodges
+2643,Isabel Expedition (1852)
+2643,British Naval Expedition (1776)
+2644,Sir Edward Augustus Inglefield
+2644,HMS Discovery (Clerke)
+2645,Isabel (Inglefield)
+2645,HMS Resolution (Cook)
+2646,Charles Clerke
+2647,John Gore
+2648,G. H. Allen
+2648,James King
+2649,Henry Anderson
+2649,Zachary Hicks
+2650,HMS Chanticleer (Foster)
+2650,Robert Molyneaux
+2651,HMS Salamander (Austin)
+2651,Richard Pickersgill
+2652,HMS Medea (Austin)
+2652,Francis Wilkinson
+2653,Henry Prescott Bance
+2653,John Bootie
+2654,Mr. Barden
+2654,Jonathan Munkhouse
+2655,Robert Beeman
+2655,Patrick Saunders
+2656,Joseph Rene Bellot
+2656,Isaac Smith
+2657,James Biggs
+2657,William Harvey
+2658,Pagoda (Moore)
+2658,James Maria Magra
+2659,Antarctic Expedition (1845)
+2659,Isaac Manley
+2660,James Bodie
+2660,William Monkhouse
+2661,William Perry
+2662,HMS Rattlesnake (Trollope)
+2662,Richard Orton
+2663,Rattlesnake Expedition (1853)
+2663,Stephen Forwood
+2664,Thomas Bouchier
+2664,John Gathray
+2665,John Bromley
+2665,John Satterly
+2666,Wallace Houston
+2666,John Thompson
+2667,Trincomalee (Houston)
+2667,Alex Weir
+2668,Bering Strait Expedition (1852)
+2668,Samuel Evans
+2669,Rochfort Maguire
+2669,Thomas Hardman
+2670,HMS Plover (Maguire)
+2670,John Reading
+2671,Bering Strait Expedition (1853)
+2671,Benjamin Jordan
+2672,H. W. Pim
+2672,John Ravenhill
+2673,Grasshopper
+2673,George Nowell
+2674,Newfoundland Expedition (1820)
+2674,Isaac Parker
+2675,William Burdon
+2675,Robert Anderson
+2676,HMS Herald (Nius)
+2676,James Gray
+2677,Robert Taylor
+2678,Richard Hutchins
+2679,John F. Charlton
+2679,Josiah Childs
+2680,Torch (tender)
+2680,Peter Flower
+2681,HMS Griper (Clavering)
+2681,Timothy Reardon
+2682,Douglas C. Clavering
+2682,Isaac Johnson
+2683,Griper Expedition (1823)
+2683,John Ramsay
+2684,Ar-mou
+2684,William Dawson
+2685,Nu-ker-zhoo
+2685,Francis Haite
+2686,She-nuk-shoo
+2686,Samuel Jones
+2687,Robert Pakenham
+2687,Forby Sutherland
+2688,E. J. L. Cooper
+2688,James Nicolson
+2689,John O. Goodridge
+2689,Thomas Simmonds
+2690,Richard Hughes
+2691,T. B. Collinson
+2691,Sam Moody
+2692,Mr. Shedden
+2692,Isaac Johnson
+2693,Edwin Jago
+2693,Robert Stainsby
+2694,Mr. Stevenson
+2694,William Collett
+2695,Archibald Wolfe
+2696,Charles Kennedy
+2696,Matthew Cox
+2697,Pheasant (Clavering)
+2697,Charles Williams
+2698,Henry Clark
+2698,Alexander Simpson
+2699,HMS Racehorse (Phipps)
+2699,Thomas Knight
+2700,HMS Carcass (Lutwidge)
+2700,Henry Stephens
+2701,Racehorse and Carcass Expedition (1773)
+2701,Thomas Jones II
+2702,Constantine John Phipps
+2702,Anthonio Ponto
+2703,John Cleverly
+2703,John Dozey
+2704,Dr. Irving
+2704,James Tunley
+2705,Israel Lyons
+2705,Michael Littleboy
+2706,Skeffington Lutwidge
+2706,John Goodjohn
+2707,Horatio Nelson
+2707,John Woodworth
+2708,Philip Colomb
+2708,William Peckover
+2709,Robert Cowie
+2709,Richard Littleboy
+2710,Mr. Crane
+2710,Manoel Pereira
+2711,Mr. Cumming
+2711,Henry Jeffs
+2712,P. Dauvergne
+2712,William Howson
+2713,Walter Dickson
+2713,Nathaniel Morey
+2714,Mr. Webster
+2714,Thomas Jones I
+2715,G. F. Ford
+2715,Edward Terrell
+2716,HMS North Star (Saunders)
+2716,Thomas Jordan
+2717,North Star Expedition (1849)
+2717,Thomas Mathews
+2718,H. B. Gawler
+2718,Daniel Roberts
+2719,John Thurmund
+2720,J. D. Gilpin
+2720,John Edgecombe
+2721,G. F. Gordon
+2721,John Trusslove
+2722,Robert Grate
+2722,Thomis Rossiter
+2723,William Judge
+2724,H. R. E. Grey
+2724,Henry Paul
+2725,Mr. Hall
+2725,Daniel Preston
+2726,Francis Harding
+2726,William Wiltshire
+2727,William Harvey
+2727,William Greenslade
+2728,J. Harwood
+2728,Samuel Gibson
+2729,Henry Hawley
+2729,Clement Webb
+2730,J. S. Hill
+2730,John Bowles
+2731,Edward H. Hills
+2731,Thomas Dunster
+2732,George W. Rice
+2732,Charles Green
+2733,Octave Pavy
+2733,John Reynolds
+2734,Henry Independence Clay
+2734,Sydney Parkinson
+2735,Henry W. Howgate
+2735,Herman Sporting
+2736,Howgate Preliminary Polar Expedition (1877)
+2736,Alexander Buchan
+2737,Howgate Arctic Expedition (1880)
+2737,James Roberts
+2738,Florence
+2738,Peter Briscoe
+2739,Gulnare
+2739,Thomas Richmond
+2740,Ludwig Kumlien
+2741,Orray Taft Sherman
+2742,Gustavus Cheyne Doane
+2743,Private William Whisler
+2744,Private William A. Ellis
+2745,Private Jacob Bender
+2746,William H. Cross
+2747,Frederik Thorlip Christiansen
+2748,Sergeant David Linn
+2748,George Dorlton
+2749,Private Henry Biederbick
+2749,Robert Cooper
+2750,Private Charles B. Henry
+2750,James Colnett
+2751,Private Francis Long
+2751,Thomas Willis
+2752,Sergeant David C. Ralston
+2752,Joseph Price
+2753,Corporal Nicholas Salor
+2753,Charles Loggie
+2754,Hampden S. Gardiner
+2754,James Grey
+2755,Sergeant Joseph Ellison
+2755,Patrick Whelan
+2756,Private Maurice Connell
+2756,Anthony Atkin
+2757,Frederick F. Kislingbury
+2757,Samuel Bordall
+2758,Winfield S. Jewell
+2758,John Ellwell
+2759,John Lockton
+2760,James Wallis
+2761,Yantic
+2761,Richard Rollett
+2762,Frank Wildes
+2762,James Patton
+2763,Proteus (rescue)
+2763,John Edgcumbe
+2764,Ernest Garlington
+2764,William Wales
+2765,Neptune
+2765,Johann Forster
+2766,Capt. Beebe
+2766,Georg Forster
+2767,HMS Alert
+2767,Anders Sparrman
+2768,Loch Garry
+2769,USCR Bear
+2771,William E. Hughes
+2772,Refuge Point Expedition (1849)
+2773,Nancy Dawson (yacht)
+2774,Robert A. Sheddon
+2774,Francis Scarnell
+2775,Victoria Coast Expedition (overland) (1850)
+2775,Arthur Kempe
+2776,James Anderson
+2776,James Burney
+2777,Hudson Bay Company Expedition (1855)
+2777,Thomas Woodhouse
+2778,Ivitchuk
+2778,Love Constable
+2779,Samuel Kemp
+2780,Gulf of Boothia (overland)
+2780,George Moorey
+2781,Henry Lightfoot
+2782,John Lambrecht
+2783,Peter Fannen
+2784,Edward Johns
+2785,Robert Moody
+2786,Francis Murphy
+2787,Francis Treneer
+2788,Robert Barber
+2789,William Offord
+2790,Andrew Hill
+2791,Andrew Gloag
+2792,Mortimer Mahoney
+2793,Thomas Andrews
+2794,James Scott
+2795,William Bayly
+2796,John Williamson
+2797,John Rickman
+2798,William Charlton
+2799,Richard Hergest
+2800,William Midd
+2801,James Trevenen
+2802,William Shuttleworth
+2803,John Hatley
+2804,John Watts
+2805,James Ward
+2806,Edward Riou
+2807,George Vancouver
+2808,Alexander Mouat
+2809,John Martin
+2810,William Bligh
+2811,Thomas Edgar
+2812,William Ewin
+2813,Aneas Aitken
+2814,John Brown
+2815,Thomas Roberts
+2816,William Hollamby
+2817,William Stevens
+2818,James Cleveley
+2819,William Widdall
+2820,Robert Anderson
+2821,Robert Morris
+2822,William Anderson
+2823,John Law
+2824,Molesworth Phillips
+2825,John Webber
+2826,Peter Reynolds
+2827,William Hillsey
+2828,Robert Goulding
+2829,David Samwell
+2830,James Kich
+2831,John Thomas
+2832,Theophilus Hinks
+2833,John Allen
+2834,Tom Fatchett
+2835,Crew
+2836,Crew
+2837,Crew
+2838,Crew
+2839,Crew
+2840,Crew
+2841,Crew
+2842,Crew
+2843,Crew
+2844,Crew
+2845,Crew
+2846,Crew
+2847,Crew
+2848,Crew
+2849,Crew
+2850,Crew
+2851,Crew
+2852,Crew
+2853,Crew
+2854,Crew
+2855,Crew
+2856,Crew
+2857,Crew
+2858,Crew
+2859,Crew
+2860,Crew
+2861,Crew
+2862,Crew
+2863,Crew
+2864,Crew
+2865,Crew
+2866,Crew
+2867,Crew
+2868,Crew
+2869,Crew
+2870,Crew
+2871,Crew
+2872,Crew
+2873,Crew
+2874,Crew
+2875,Crew
+2876,Crew
+2877,Crew
+2878,Crew
+2879,Crew
+2880,Crew
+2881,Crew
+2882,Crew
+2883,Crew
+2884,Crew
+2885,Crew
+2886,Crew
+2887,Crew
+2888,Crew
+2889,Crew
+2890,Crew
+2891,Crew
+2892,Crew
+2893,Crew
+2894,Crew
+2895,Crew
+2896,Crew
+2897,Crew
+2898,Crew
+2899,Crew
+2900,Crew
+2901,Crew
+2902,Crew
+2903,Crew
+2904,Crew
+2905,Crew
+2906,Crew
+2907,Crew
+2908,Crew
+2909,Crew
+2910,Crew
+2911,Crew
+2912,Crew
+2913,Crew
+2914,Crew
+2915,Crew
+2916,John Mackintosh
+2917,Crew
+2918,Crew
+2919,Crew
+2920,Crew
+2921,Crew
+2922,Crew
+2923,Crew
+2924,Crew
+2925,Crew
+2926,Crew
+2927,Crew
+2928,Crew
+2929,Crew
+2930,Crew
+2931,Crew
+2932,Crew
+2933,Crew
+2934,Crew
+2935,Crew
+2936,Crew
+2937,Crew
+2938,Crew
+2939,Crew
+2940,Crew
+2941,Crew
+2942,Crew
+2943,Crew
+2944,Crew
+2945,Crew
+2946,Crew
+2947,Crew
+2948,Crew
+2949,Crew
+2950,Crew
+2951,Crew
+2952,Crew
+2953,Crew
+2954,Crew
+2955,Crew
+2956,Crew
+2957,Crew
+2958,Crew
+2959,Crew
+2960,Crew
+2961,Crew
+2962,Crew
+2963,Crew
+2964,Crew
+2965,Crew
+2966,Crew
+2967,Crew
+2968,Crew
+2969,Crew
+2970,Crew
+2971,Crew
+2972,Crew
+2973,Crew
+2974,Crew
+2975,Crew
+2976,Crew
+2977,Crew
+2978,Thomas Karahonton (Gros Thomas)
+2979,Laxard Tacanajze
+2980,Thomas Nahanajaze
+2981,Fracois Monegon
+2982,Thomas Anakera
+2983,Saveur St. Martin
+2984,Thomas Cadrant
+2985,Joseph Dinduvant
+2986,Charlot Arahota
+2987,Louis Taranta
+2988,Ignace Atawackon
+2989,Ignace Sataskatchi
+2990,Apoquash
+2991,Miskiash
+2992,Piquatchiash (Peter)
+2993,First Canoe
+2994,Second Canoe
+2995,Albert One-eye
+2996,"Overland with Rae, summer (1849)"
+2997,Neil M'Leod
+2998,James Hope
+2999,Thomas Hope
+3000,Halcro Humphrey
+3001,Louis Olivier
+3002,Baptiste Paul
+3003,Louis Dubrill
+3004,Mastegon
+3005,Plante
+3006,James Hand
+3007,Charles Paul
+3008,Daniel Gough
+3009,Robert Holly
+3010,James Tullett
+3011,William Richards
+3012,Joseph Organ
+3013,Foster M'Kenzie
+3014,Benjamin Young
+3015,Moses Tew
+3016,William Swaney
+3017,Eli Bone
+3018,John Davies
+3019,Stephen Howe
+3020,John Cunningham
+3021,James Dawson
+3022,Edward Spencer
+3023,Charles Campbell
+3024,John Salmon
+3025,James Brooke
+3026,Edward Privett
+3027,George Davis
+3028,Thomas Ward
+3030,Robert Slessar
+3031,George Green
+3032,William Mitchell
+3033,John Bailey
+3034,William Beedling
+3035,James Beams
+3036,Willam Harvey
+3037,John Bettison
+3038,William Lowrie
+3039,Richard Binstead
+3040,George Martin
+3041,George Drover
+3042,John Elliott
+3043,Francis Dow
+3044,Thomas Rumble
+3045,Thomas Coplands
+3046,William Colwill
+3047,Thomas Armstrong
+3048,Thomas Wilson
+3049,John Heydon
+3050,William White
+3051,Robert M'Clean
+3052,George Custance
+3053,Thomas Northhouse
+3054,William Coles
+3055,Peter Finnecy
+3056,Thomas Ransom
+3057,William R. Huggett
+3058,James Fox
+3059,James Robinson
+3060,William Ward
+3061,Henry Deller
+3062,James Shingleton
+3063,William Culver
+3064,William George
+3065,John Harbourn
+3066,Tom Coles
+3067,W. R. Hoggitt
+3068,Thomas Ransome
+3069,George Malcom
+3070,William M'Arthur
+3071,John Green
+3072,Edward Thomas
+3073,James Wilkie
+3074,James Heill
+3075,James Rodgers
+3076,James Foley
+3077,William Elliott
+3079,Peter Simpson
+3080,John Scarlett
+3081,George Francis
+3082,Francis Webber
+3083,William Manger
+3085,Henry Fussell
+3086,James Fullerton
+3087,Robert Urquhart
+3088,Thomas Hood
+3089,George Wood
+3090,Henry Morgan
+3091,Thomas Brown
+3092,Benjamin Strutt
+3093,John Wright
+3094,John Hieels
+3096,Thomas Record
+3097,Henry Cumber
+3098,Richard Bland
+3099,Nicholas Holton
+3100,Captain's coxswain
+3101,Quarter-master
+3102,Quarter-master
+3103,Quarter-master
+3104,Boatswain's mate
+3105,Sailmaker
+3106,Sailmaker's mate
+3107,Armourer
+3108,Armourer's mate
+3109,Carpenter's mate
+3110,Carpenter's crew
+3111,Carpenter's crew
+3112,Carpenter's crew
+3113,Graham Walker
+3114,Alexander Anderson
+3115,Alexander Young
+3116,Jones
+3117,Barker
+3118,Gibbs
+3119,Able seaman
+3120,Able seaman
+3121,Able seaman
+3122,Able seaman
+3123,Able seaman
+3124,Able seaman
+3125,Able seaman
+3126,Able seaman
+3127,Able seaman
+3128,Able seaman
+3129,Able seaman
+3130,Able seaman
+3131,Able seaman
+3132,Able seaman
+3133,Able seaman
+3134,Able seaman
+3135,Captain's steward
+3136,Captain's cook
+3137,Marine private
+3138,Marine private
+3139,Marine private
+3140,Marine private
+3141,Marine private
+3148,Robert Hoile
+3149,Samuel Rogers
+3150,Thomas Bond
+3151,Robert Moon
+3152,Michael Collins
+3153,Simon Dix
+3154,George Murray
+3155,Thomas Barker
+3156,William Simmonds
+3157,Thomas Morgan
+3158,Thomas Johnstone
+3159,Charles Read
+3160,James Beer
+3161,Joseph Bacon
+3162,Robert Graham
+3163,Richard Ellis
+3164,John Cuttill
+3165,George Lower
+3166,William Bailey
+3167,James Webber
+3168,Charles Beal
+3170,Alexander Samuel
+3171,Andrew Adams
+3172,John Eddie
+3173,John Dunbar
+3174,James M'Kenzie
+3175,George Knowles
+3176,John Gordon
+3177,George Thompson
+3178,Andrew Robertson
+3179,Alexander Smith
+3180,John Lawson
+3181,Donald Sutherland
+3182,John Lucas
+3183,John Stuart
+3184,Daniel Henry
+3185,James Knox
+3186,James Davidson
+3187,William Bruce
+3188,Alexander Thompson
+3189,James Hodgston
+3190,Richard Kitson
+3191,Alexander Bain
+3192,Alexander Leiper
+3193,William Brands
+3194,George Findlay
+3195,Walter Craig
+3196,Crew
+3197,Crew
+3198,Crew
+3199,Crew
+3200,Crew
+3201,Crew
+3202,Crew
+3203,Crew
+3204,Crew
+3205,Crew
+3206,Crew
+3207,Crew
+3208,Crew
+3209,Crew
+3210,Joseph Abbot
+3211,Samuel Taylor
+3214,James Hoile
+3217,"Pandora, tender (Wood)"
+3218,James Wood
+3219,Thomas Edmonstone
+3220,William Murphy
+3221,Frederick Brandt
+3222,James Cook
+3224,Mr. Staunton
+3225,William Harris
+3226,Mr. Parkinson
+3227,Paavil (Bosky) Oglayuk
+3228,Crew
+3229,W. Lee
+3230,Nancy Dawson (Shedden)
+3231,John Anderson
+3425,John R. Holman
+3819,John D. Baker
+3820,Bonner
+3821,Brett
+3822,Horace Edgar Buckridge
+3823,Clarke
+3824,Dowsett
+3825,James Duncan
+3826,Evans
+3827,Clarence Hare
+3828,Hubert
+3829,William McFarlane
+3830,Mardon
+3831,Masterton
+3832,Miller
+3833,Page
+3834,Peters
+3835,Roper
+3836,Walker
+3837,Robert Sinclair
+3838,George T. Vince
+3839,Waterman
+3840,John Moore
+3842,M. Norman
+3843,Noel Osborn
+3844,Mr. Oyston
+3845,Joshua Phillips
+3848,Thomas R. Purchase
+3849,James Rae
+3850,John Reid
+3851,C. K. Renwick
+3852,Charles Richards
+3853,W. H. Richards
+3854,William T. Richards
+3855,W. Robertson
+3856,F. Robinson
+3915,J. Rutter
+3916,J. N. Ryder
+3917,John Sabester
+3918,Robert C. Scott
+3920,J. Simpson
+3921,J. M. Skene
+3922,John Smith
+3923,John Smith
+3924,W. Parker Snow
+3925,Prince Albert (Forsyth)
+3926,W. C. Stevenson
+3927,Kenneth Sutherland
+3928,W. Tatham
+3930,John Tom
+3931,HMS Griper (Lyon)
+3932,Northwest Passage Expedition (1824)
+3933,J. Tracey
+3934,N. G. Tufnell
+3935,Charles E.  H. Vernon
+3936,John Walden
+3937,H. P. Webb
+3938,C. C. Weller
+3939,T. D. Wright
+3940,John F. R. Aylen
+3941,Mr. Osborne
+3942,Porquois-Pas? IV (Charcot 1925)
+3943,Frank Debenham
+3944,Apsley Cherry-Garrard
+3945,Tryggve Gran
+3946,Cecil H. Meares
+3947,Edward W. Nelson
+3948,Herbert G. Ponting
+3949,George Simpson
+3950,T. Griffith Taylor
+3951,Charles Seymour Wright
+3952,Shore party
+3953,Scientific staff
+3954,Crew
+3955,Ship's crew

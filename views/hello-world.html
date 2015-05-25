@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!-- HTML5 Hello world by kirupa - http://www.kirupa.com/html5/getting_your_feet_wet_html5_pg1.htm -->
+<html lang="en-us">
+
+<head>
+	<meta charset="utf-8">
+	<title>Arctic Exploration Data Visualization</title>
+	<script type="text/javascript" src="./nedb/browser-version/out/nedb.min.js"></script>
+	<script type="text/javascript" src="papaparse.min.js"></script>
+	<script type="text/javascript" src="databaseFrontend.js"></script>
+	<script type="text/javascript" src="parse_setup.js"></script>
+	<script type="text/javascript" src="parse_nodes.js"></script>
+	<script type="text/javascript" src="parse_edges.js"></script>
+	<link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+	<div>
+		<input id='input_file' type='file'>
+		<p id='putDispenserHere'></p>
+	</div>
+	<div>
+		<input id='query' type='text'>
+		<input id='submitQuery' type='submit'>
+		
+		<br /><br />
+		<input type="text" id="year_range_low" placeholder="From year...">
+		<input type="text" id="year_range_hi" placeholder="To year...">
+        <button id="year_range_search_button" onclick=yearSearch()>
+        	Search for nodes with expeditions 
+        </button>	
+		
+	</div>
+    <div id="mainContent">
+        <p id="helloText">?</p>
+        <button id="clickButton" class="buttonStyle">add</button>
+
+        <button id="clearButton" class="buttonStyle">clear</button>
+        <button id="toConsole" class="buttonStyle">toConsole</button>
+    </div>
+    <script> 
+var myButton = document.getElementById("clickButton");
+
+var myButton2 = document.getElementById("clearButton");
+var myButton3 = document.getElementById("toConsole");
+var submitButton = document.getElementById("submitQuery");
+var myText = document.getElementById("helloText");
+var textBox = document.getElementById('query');
+
+
+myButton.addEventListener('click', doSomething, false);
+myButton2.addEventListener('click', clearIt,false);
+myButton3.addEventListener('click', toConsole,false);
+submitButton.addEventListener('click', search, false);
+
+var db = createDatabase();
+	
+function clearIt(){
+	localStorage.removeItem('nodes');
+	localStorage.removeItem('edges');
+	db = createDatabase();
+}
+
+function doSomething() {
+	var nodeSet = JSON.parse(localStorage.getItem('tempNodes'));
+	localStorage.removeItem('tempNodes');
+	nodeSet.type = 'node';
+	var nodeBatch = {collection: nodeSet, type:'node'};
+	batchInsertion(nodeBatch, db);
+	
+	var edgeSet = JSON.parse(localStorage.getItem('tempEdges'));
+	localStorage.removeItem('tempEdges');
+	nodeSet.type = 'edge';
+	var edgeBatch = {collection: edgeSet, type:'edge'};
+	batchInsertion(edgeBatch, db);
+}
+
+function toConsole(){
+var query = {Id:'990'};
+	findNodes(query, db, function(docs){
+		myText.textContent = JSON.stringify(docs[0]);
+	});
+}
+
+function search(){
+	var query = document.getElementById('query').value;
+	var asObj = JSON.parse(query);
+	findNodes(asObj, db, function(docs){
+		myText.textContent = JSON.stringify(docs);
+	});
+}
+
+function yearSearch(){
+	var yrlv = document.getElementById('year_range_low').value;
+	var yrhv = document.getElementById('year_range_hi').value;
+	console.log('yearSearch: (lo, hi): (' + yrlv + ', ' + yrhv + ')');
+	year_range_search(yrlv, yrhv, db, function(docs){
+			myText.textContent = JSON.stringify(docs);	
+	});
+}
+   </script>
+</body>
+</html>
